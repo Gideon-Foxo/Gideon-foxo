@@ -9,3 +9,6 @@ Kettu is my main project. Kettu is a small, fully safe for work Discord bot made
 ## Lurking Racoon
 
 Lurking Racoon was my very first coding project soooooo as expected the code for it is very bad. Lurking Racoon was a custom bot for a furry server I used to own. I was frustrated at the inflexibility of other bots at the time to do what I wanted so, with the help of some friends and contacts Lurking Racoon was born. You can really see how my coding improved from v1 to v2 and v3. My code defiantly does not look like what Lurking Racoon is anymore. The bot itself is no longer ran. The server itself that the bot is made for still exists however. 
+
+
+![Gideon's github thingy](https://github-readme-stats.vercel.app/api?username=Gideon-foxo&theme=vision-friendly-dark&show_icons=true)
