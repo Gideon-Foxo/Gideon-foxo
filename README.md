@@ -1,6 +1,6 @@
-# Gideon foxo
+# Gideoonnnnnnn
 
-Hewwo ^^ I am Gideon and you have stumbled onto my github profile :eyes: If you would like to chat with me you can add me on Discord at [Gideon#4325](https://discord.com/users/524371727812263948) or Telegram at @Gideon_foxo. You maybe able to find me in Yggdrasil Treehouse, Bots on Discord, Kettu's layer, or other places where I lurk :detective: Continue reading to learn about some of my projects :3
+Hewwo ^^ I am Gideon and you have stumbled into my github profile 👀 If you would like to chat with me you can add me on Discord at [Gideon#4325](https://discord.com/users/524371727812263948) or Telegram at @Gideon_foxo. You maybe able to find me in Yggdrasil Treehouse, Bots on Discord, Kettu's layer, or other places where I lurk :detective: Continue reading to learn about some of my projects :3
 
 
 --------------------------------
