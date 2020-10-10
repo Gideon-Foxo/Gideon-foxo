@@ -7,6 +7,8 @@ Hewwo ^^ I am Gideon and you have stumbled onto my github profile :eyes: If you 
 
 ![Gideon's github thingy](https://github-readme-stats.vercel.app/api?username=Gideon-foxo&theme=vision-friendly-dark&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gideon-foxo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Kettu 
 
 Kettu is my main project. Kettu is a small, fully safe for work Discord bot made in JavaScript. Kettu was born because all of the other furry have nsfw for them and the bot we where using even the sfw commands would return suggestive content and I never wanted to have to worry about it. So, after some time, the kettu was made. The word `kettu` stands for fox in Finnish. Kettu is not open source, however the documentation is and you can find it [here](https://github.com/LachlanWalls/kettu-docs). You can find Kettu's website [here](https://kettu.cc/). Kettu was also made with the help of [Ehhhhhh](https://github.com/LachlanWalls), [Jack](https://github.com/Jack073), [Ben](https://github.com/Benricheson101) and [Develon](https://gitlab.com/Develon5543).
