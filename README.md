@@ -18,6 +18,6 @@ Lurking Racoon was my very first coding project soooooo as expected the code for
 
 ## Biiiiigggg Thankies
 
-Thank you so so much [Ehhhhhh](https://github.com/LachlanWalls), [Jack](https://github.com/Jack073), [Ben](https://github.com/Benricheson101) and [Develon](https://gitlab.com/Develon5543) for helping with my programming. Without you guys I would not be programming today 🧡
+Thank you so so much [Ehhhhhh](https://github.com/eeehh), [Jack](https://github.com/Jack073), [Ben](https://github.com/Benricheson101) and [Develon](https://gitlab.com/Develon5543) for helping with my programming. Without you guys I would not be programming today 🧡
 
 
