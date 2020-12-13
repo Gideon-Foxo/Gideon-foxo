@@ -2,7 +2,7 @@
 
 Hewwo ^^ I am Gideon and you have stumbled into my github profile 👀 
 
-You can find me Lurking in Yggdrasil Treehouse, Kettu's Lair, Displace or other places where I lurk 🕵
+You can find me Lurking in Yggdrasil Treehouse, Kettu's Lair, Logger's Lounge or other places where I lurk 🕵
 
 --------------------------------
 
