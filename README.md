@@ -8,6 +8,8 @@ You can find me Lurking in Yggdrasil Treehouse, Kettu's Lair, Logger's Lounge or
 
 ![Gideon's github thingy](https://github-readme-stats.vercel.app/api?username=Gideon-foxo&theme=vision-friendly-dark&show_icons=true)
 
+![counter](https://encc1rchhuk42cc.m.pipedream.net)
+
 ## Kettu <img src="https://cdn.discordapp.com/icons/685932693908881408/a_97e6f3aa2079900cc95aeb63ae86cbd4.gif" width="25" height="25" />
 
 Kettu is my main project. Kettu is a small, fully safe for work Discord bot made in JavaScript. Kettu was born because all of the other furry have nsfw for them and the bot we where using even the sfw commands would return suggestive content and I never wanted to have to worry about it. So, after some time, the kettu was made. The word `kettu` stands for fox in Finnish. Kettu is not open source, however the documentation is and you can find it [here](https://github.com/LachlanWalls/kettu-docs). You can find Kettu's website [here](https://kettu.cc/).
