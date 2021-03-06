@@ -7,6 +7,7 @@ You can find me Lurking in Yggdrasil Treehouse, Kettu's Lair, Logger's Lounge or
 --------------------------------
 
 ![Gideon's github thingy](https://github-readme-stats.vercel.app/api?username=Gideon-foxo&theme=vision-friendly-dark&show_icons=true)
+![counterThing](https://enwk7okkacbnf3i.m.pipedream.net)
 
 ## Kettu <img src="https://cdn.discordapp.com/icons/685932693908881408/a_97e6f3aa2079900cc95aeb63ae86cbd4.gif" width="25" height="25" />
 
