@@ -44,7 +44,7 @@ Coding is far from an easy task when you don't know what your doing. I owe so so
 
 If you would like to contact me personally please use my linked email, message me at [Gideon#4325](https://discord.com/users/524371727812263948) or [join my server](https://discord.gg/WQ5fHaYnzv).
 
-Thankies for reading
+Thank you for reading
 
 cheers!
 
