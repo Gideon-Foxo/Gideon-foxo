@@ -1,4 +1,10 @@
+<h1 align="center">⚠️My discord is comprmized⚠️</h1>
+
+My discord account has been compromised, please DO NOT DOWNLOAD OR RUN ANY FILES I SAID. I HAVE LOST FULL ACCESS TO MY ACCOUNT 
+
+
 <h1 align="center">Gideoonnnnnnn 🦊</h1>
+
 
 Hewwo ^^ my name is Gideon and you have found my github :o
 
