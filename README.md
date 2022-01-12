@@ -1,6 +1,4 @@
-<h1 align="center">⚠️My discord is comprmized⚠️</h1>
-
-My discord account has been compromised, please DO NOT DOWNLOAD OR RUN ANY FILES I SAID. I HAVE LOST FULL ACCESS TO MY ACCOUNT 
+!!! My Discord account has been recoverd :o thank you unknown person at Discord for saving me
 
 
 <h1 align="center">Gideoonnnnnnn 🦊</h1>
