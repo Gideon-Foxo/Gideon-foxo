@@ -48,7 +48,7 @@ Coding is far from an easy task when you don't know what your doing. I owe so so
 
 > [Ben](https://github.com/Benricheson101), thank you for putting up with me and my dumb questions, you are so helpful and cheerful.
 
-> [Riku](https://gitlab.com/Develon5543), thank you for helping me grasp some of the fundamentals of programming and helping me and giving me hope and insperation when I was to my end in frustration. Without you I never would have continued programming.
+> [Riku](https://github.com/riku5543), thank you for helping me grasp some of the fundamentals of programming and helping me and giving me hope and insperation when I was to my end in frustration. Without you I never would have continued programming.
 
 > [Jack](https://github.com/Jack073), thank you so much for helping me figure out the most stumping of bugs. I don't know what you do or how you do it, its just magic.
 
