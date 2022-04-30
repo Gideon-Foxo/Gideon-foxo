@@ -36,13 +36,13 @@
 
 ### [Furry Bot List](https://github.com/Gideon-foxo/furry-bots) 
 
-> This is a detailed list at all of the publicly available and maintained furry Discord bots. I did this purely for fun to see how my own creation was doing next to all the other ones. And so this list was born c: 
+> A detailed ranking of all of the publicly available and maintained furry Discord bots. This was created purely for fun to see how my own creation was doing next to the rest of the competition. 
 
 
 
-<h2 align="center">Huge Thank You</h2>
+<h2 align="center">Huge Thank You!</h2>
 
-Coding is far from an easy task when you don't know what your doing. I owe so so much of my experience some simply incredible people who have helped me so much.
+Coding is far from an easy task when you don't know what your doing. I owe so so much of my knowledge some simply incredible people who have helped me alone my way.
 
 > [Ehhhhhh](https://github.com/eeehh), thank you for being my amazing co developer and pouring so much time into my projects.
 
