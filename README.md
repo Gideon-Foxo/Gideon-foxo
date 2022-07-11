@@ -57,7 +57,7 @@ Coding is far from an easy task when you don't know what your doing. I owe so so
   
 <h2 align="center">Contact Information</h2> 
 
-If you would like to contact me personally please use my linked email, message me at [Gideon#4325](https://discord.com/users/524371727812263948) or [join my server](https://discord.gg/WQ5fHaYnzv).
+If you would like to contact me personally please use my linked email, message me at [Gideon#4325](https://discord.com/users/524371727812263948) or [join my server](https://discord.gg/HGpFmYBQ26).
 
 Thank you for reading
 
