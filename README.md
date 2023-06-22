@@ -52,7 +52,7 @@
 
 <h2 align="center">Shoutouts!</h2>
 
-Huge shoutout to [Ben](https://github.com/Benricheson101), [Riku](https://github.com/riku5543) and [Jack](https://github.com/Jack073) for helping me with so many silly problems and helping me to understand complex functions. Especially huge shoutout my developer in crime [Ehhhhhh] (https://github.com/eeehh) for helping me for years and hosting my projects for me. All of you guys rock so much 🙏
+Huge shoutout to [Ben](https://github.com/Benricheson101), [Riku](https://github.com/riku5543) and [Jack](https://github.com/Jack073) for helping me with so many silly problems and helping me to understand complex functions. Especially huge shoutout my developer in crime [Ehhhhhh](https://github.com/eeehh) for helping me for years and hosting my projects for me. All of you guys rock so much 🙏
 
  
 <h2 align="center">Other Information</h2> 
