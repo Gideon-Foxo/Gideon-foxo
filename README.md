@@ -4,12 +4,6 @@
 <p align="center">
     Hewwo ^^ my name is Gideon and you have stumbled onto my github :o I make Discord bots and bugs in JavaScript and TypeScript c: 
   </p>
-  
-<p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gideon-foxo&theme=vision-friendly-dark&show_icons=true" />
-  </p>
-
-
 
 <h2 align="center">My Projects</h2>
 
